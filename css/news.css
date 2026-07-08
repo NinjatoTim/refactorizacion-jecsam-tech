@@ -1,0 +1,17 @@
+.card {
+    background-color: #f2cc8f;
+    border-radius: 14px;
+}
+
+.card-title {
+    background-color: #f4f1de;
+    border-radius: 6px;
+}
+
+.card-text {
+    border-radius: 6px;
+}
+
+.btn {
+    background-color: #E07A5F;
+}
