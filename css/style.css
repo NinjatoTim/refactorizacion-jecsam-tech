@@ -13,3 +13,14 @@ html {
   width: 100%;
 }
 
+
+body{
+  background-color: #81b29a;
+  color: #ffffff;
+  text-align: justify;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
