@@ -21,5 +21,14 @@ body {
 
 .main-content {
     flex: 1 0 auto;
+
+body{
+  background-color: #81b29a;
+  color: #ffffff;
+  text-align: justify;
+}
+
+.text-justify {
+  text-align: justify;
 }
 
